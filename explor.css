@@ -1,0 +1,79 @@
+.blogs h2{
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #77132b;
+    font-family: 'Tajwal';
+    line-height: 50px;
+}
+.blogs p{
+    font-family: 'Tajwal';
+    color: black;
+    font-weight: bold;
+}
+.blogs .box{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #f6f6f6;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+h2 svg{
+    color: gold;
+}
+.blogs .box h5{
+    color: #77132b;
+    font-family: 'Tajawal';
+    font-size: 22px;
+    margin: 15px 0px;
+}
+.blogs .box span{
+    display: block;
+    color: #444;
+    font-family: 'Tajawal';
+    font-size: 16px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.blogs .box .h6{
+    color: #a82d49;
+    font-size: 22px;
+    font-family: 'Tajwal';
+}
+         
+         
+         
+.buttonorder{
+    background-image: linear-gradient(to right, #C04848 0%, #480048  51%, #C04848  100%);
+    margin: 70px;
+    padding: 15px 50px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #f4e5e5;
+    font-family: 'Tajwal';
+    border-radius: 30px;
+    display: block;
+    
+  }
+
+  .buttonorder:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  .buttonorder{
+    margin-right: px;
+  }
+ 
+ 
+         
+
+ 
+ 

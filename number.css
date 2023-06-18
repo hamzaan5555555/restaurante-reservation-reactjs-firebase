@@ -1,0 +1,26 @@
+.numbers{
+    background-color: #ab3550;
+    padding: 6px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.numbers .row{
+    margin: 9px 0px;
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: white;
+    font-family: 'Tajwal';
+}
+
+.numbers h6{
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Tajwal';
+    font-weight: bold;
+    letter-spacing: 1px;
+}

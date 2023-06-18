@@ -1,0 +1,138 @@
+.services{
+    margin-top: 30px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.services .our{
+    color: black;
+    font-size: 30px;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Lora', serif;
+}
+.services p{
+    color: gray;
+    font-size: 15px;
+    line-height: 30px;
+    margin: 20px 0px;
+    font-family: 'Lora', serif;
+}
+.services .box{
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+    height: auto;
+    padding: 5px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.services .box svg{
+    color: #fb3e3e;;
+    
+    text-align: center;
+    width: 30px;
+    height: 40px;
+    font-size: 5px;
+    padding: 5px;
+}
+.services .box h3{
+    color: black;
+    font-weight: bold;
+
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 15px 0px;
+}
+.services .box p{
+    color: gray;
+    font-size: 15px;
+    margin: 15px 0px;
+}
+.services .box:hover svg{
+    background-color: #fb3e3e;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    transition: .3s ease-in;
+}
+.services .last{
+    margin-top: 40px;
+    text-align: center;
+}
+.services .last h3{
+    color: #000;
+    font-size: 25px;
+    line-height: 40px;
+    width: 60%;
+    font-weight: bold;
+    margin-left: 104px;
+    font-family: 'Lora', serif;
+}
+.services .last p{
+    color: #777;
+    font-size: 16px;
+    margin: 30px 0px;
+    width: 100%;
+    font-family: 'Lora', serif;
+}
+/* .services ul{
+    margin-right: 250px;
+} */
+
+.services .last ul li{
+    list-style-type: disc;
+    margin: 15px 0px;
+    color: #777;
+    font-size: 16px;
+}
+.services .last button{
+             
+    
+        background-image: linear-gradient(to right, #FF512F 0%, #DD2476  51%, #FF512F  100%);
+       
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 5px;
+        display: block;
+        width: 190px;
+        height: 40px;
+        box-sizing: border-box;
+        margin: 65px 180px;
+      
+
+      
+}
+.services .last button:hover{
+    background-position: right center; /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+
+}
+.services .last button svg{
+    margin-left: 4px;
+}
+img{
+    width: 390px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
